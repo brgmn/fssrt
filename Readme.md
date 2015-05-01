@@ -1,7 +1,7 @@
 # fssrt
 A Mac OS X Finder Sidebar Shortcut Repair Tool
 
-![Finder sidebar shortcuts](https://raw.githubusercontent.com/brgmn/fssrt/documentation/images/finder-sidebar.png)
+![Finder sidebar shortcuts](https://raw.githubusercontent.com/brgmn/fssrt/master/documentation/images/finder-sidebar.png)
 
 ## I. Installation & Setup
 
@@ -30,7 +30,7 @@ myshare,inbox/scan/today
 
 5) Add fssrt to your finder menu (optional)
 
-![Finder top menu integration](https://raw.githubusercontent.com/brgmn/fssrt/documentation/images/finder-menu.png)
+![Finder top menu integration](https://raw.githubusercontent.com/brgmn/fssrt/master/documentation/images/finder-menu.png)
 
 You can just add the fssrt app by drag & dropping it to the finder top menubar while having cmd+alt pressed.
 
