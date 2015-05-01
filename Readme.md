@@ -3,7 +3,14 @@ A Mac OS X Finder Sidebar Shortcut Repair Tool
 
 ![Finder sidebar shortcuts](https://raw.githubusercontent.com/brgmn/fssrt/master/documentation/images/finder-sidebar.png)
 
-## I. Installation & Setup
+## I. About
+
+Disapearing shortcuts to fileserver folders in Mac OS X is a daily pain. fssrt is just some applescript code and automator app that checks if the configured fileservers are reachable (via ping) and if yes, readds all shortcuts to a list of fileserver folders the finder sidebar. 
+
+Read more about the mac os x sidebar shortcut problem here:
+https://discussions.apple.com/thread/5556541
+
+## II. Installation & Setup
 
 1) Download newest version of fssrt from github
 
@@ -33,8 +40,4 @@ myshare,inbox/scan/today
 ![Finder top menu integration](https://raw.githubusercontent.com/brgmn/fssrt/master/documentation/images/finder-menu.png)
 
 You can just add the fssrt app by drag & dropping it to the finder top menubar while having cmd+alt pressed.
-
-## II. About
-
-Disapearing shortcuts to fileserver folders in Mac OS X is a daily pain. fssrt is just some applescript code that checks if the configured fileservers are reachable (via ping) and if yes, readds all shortcuts to a list of fileserver folders the finder sidebar. 
 
