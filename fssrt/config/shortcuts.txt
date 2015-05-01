@@ -1,0 +1,2 @@
+team,Team/Technik
+team,Team/Guruhelp
