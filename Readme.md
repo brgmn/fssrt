@@ -27,17 +27,18 @@ One share per line (protocol,ip,sharename) like this:
 afp,192.168.1.4,myshare
 ```
 
-4) Insert the shortcuts to fileserver folders you would like to see in the finder sidebar in shortcuts.txt
+4) Insert the shortcuts to fileserver folders you would like to see in the finder sidebar in config/shortcuts.txt
 
 One shortcut per line (sharename,path) like this:
 
 ```
 myshare,inbox/scan/today
+myshare,team/marketing
 ```
 
 5) Add fssrt to your finder menu (optional)
 
 ![Finder top menu integration](https://raw.githubusercontent.com/brgmn/fssrt/master/documentation/images/finder-menu.png)
 
-You can just add the fssrt app by drag & dropping it to the finder top menubar while having cmd+alt pressed.
+You can just add the fssrt app by drag & dropping it to the finder top menubar holding cmd+alt pressed.
 
